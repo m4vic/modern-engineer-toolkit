@@ -1,10 +1,17 @@
-# 🌟 AI / ML / DL / GenAI Roadmap – Curated Resource Hub
+# 🌟 AI / ML / DL / GenAI / Quant Finance / Robotics – Curated Resource Hub
 
-A curated list of **120+ high-quality resources** covering  
-**Python → Math → Machine Learning → Deep Learning → Transformers → LLMs → GenAI → Agents**.  
-Perfect for beginners, students, and aspiring AI engineers.
+A curated list of **120+ high-quality learning resources** covering  
+**Fundamentals → Machine Learning → Deep Learning → LLMs → GenAI → Agents → Robotics → Quant Finance**.
 
----
+This repository follows a **common foundational track** (Python, Math, ML basics)  
+and then branches into **three major specialization domains**:
+
+- 🤖 **AI / Deep Learning / GenAI**  
+- 🦾 **Robotics & Autonomous Systems**  
+- 💹 **Quantitative Finance & AI in Finance**
+
+Perfect for beginners, students, career-switchers, and aspiring AI engineers.
+
 
 ## 👤 Author / Socials
 **Your Name**  
