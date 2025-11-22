@@ -65,29 +65,14 @@ This repository provides a **common foundational track** shared across all field
 
 <h2 id="machinelearning">📘 2. Machine Learning</h2>
 
-## 🎓 Courses
-| Description | Link |
-|------------|------|
-| Full ML roadmap | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ) |
-| Practical ML tutorials | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) |
-| Unsupervised ML (clustering, PCA) | ▶️ [Link](https://youtu.be/Aa4MACKaDC0) |
-
----
-
-## 🧠 ML Intuition
 | Topic | Description | Link |
 |-------|-------------|------|
-| ML Playlist | ML algorithm intuition playlist <br><small>Visual breakdowns of key ML algorithms</small> | ▶️ [Link](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
-
----
-
-## 🛠 ML Projects
-| Description | Link |
-|------------|------|
-| Applied ML projects walkthrough | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) |
-| Real-world datasets for ML | 🔗 [Link](https://kaggle.com/datasets) |
-
----
+| ML Roadmap | Complete beginner-to-advanced ML learning path <br><small>Covers theory, workflows, and full ML pipeline</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ) |
+| Practical ML Tutorials | Hands-on ML implementations and real datasets <br><small>Regression, classification, preprocessing</small> | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) |
+| Unsupervised ML | Clustering, PCA, dimension reduction explained visually <br><small>K-Means, hierarchical, PCA intuition</small> | ▶️ [Link](https://youtu.be/Aa4MACKaDC0) |
+| ML Intuition Playlist | Visual explanations of core ML algorithms <br><small>SVM, KNN, Decision Trees, Naive Bayes</small> | ▶️ [Link](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) |
+| ML Projects Walkthrough | Step-by-step applied machine learning projects <br><small>End-to-end examples with Python</small> | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6) |
+| Kaggle Datasets | Large collection of real-world datasets <br><small>Practice material for ML & DL projects</small> | 🔗 [Link](https://kaggle.com/datasets) |
 
 <h2 id="deeplearning">🔥 3. Deep Learning</h2>
 
