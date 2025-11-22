@@ -30,31 +30,32 @@ This repository provides a **common foundational track** shared across all field
 <h2 id="fundamentals">🧱 1. Fundamentals (Common Core)</h2>
 
 ## 🐍 Python
-| Description | Link |
-|------------|------|
-| Beginner-friendly Python fundamentals | 🔗 [Link](https://www.coursera.org/specializations/python) |
-| Full Python basics playlist | ▶️ [Link](https://youtu.be/7wnove7K-ZQ) |
-| Advanced Python and OOP concepts | ▶️ [Link](https://youtu.be/Mf2RdpEiXjU) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| Python Fundamentals | Beginner-friendly Python course <br><small>Syntax, loops, functions</small> | 🔗 [Link](https://www.coursera.org/specializations/python) |
+| Python Basics Playlist | Complete Python from basics to intermediate <br><small>Hands-on tutorials</small> | ▶️ [Link](https://youtu.be/7wnove7K-ZQ) |
+| Advanced Python | OOP, decorators, file handling, modules <br><small>Go beyond basics</small> | ▶️ [Link](https://youtu.be/Mf2RdpEiXjU) |
 
 ---
 
 ## 🔢 Math (Intuition First)
-| Description | Link |
-|------------|------|
-| Linear algebra visual intuition | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
-| Differential equations intuition | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
-| Neural network fundamentals visualized | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
-| Maths for ML (Hindi) | ▶️ [Link](https://youtu.be/2GV_ouHBw30) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| Linear Algebra Visualized | Intuitive, visual-first linear algebra <br><small>Vectors, matrices, transformations</small> | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Differential Equations | Visual intuition for differential equations <br><small>Flows, systems, real-world examples</small> | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
+| Neural Nets Intuition | Visual understanding of neural networks <br><small>Backprop, activations</small> | ▶️ [Link](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) |
+| ML Math (Hindi) | Maths for ML explained simply <br><small>Linear algebra, calculus basics</small> | ▶️ [Link](https://youtu.be/2GV_ouHBw30) |
 
 ---
 
 ## 📊 Data Science Essentials
-*(Add resources later)*  
-- Pandas  
-- NumPy  
-- Matplotlib / Seaborn  
-- SQL  
-- EDA  
+| Topic | Description | Link |
+|-------|-------------|------|
+| Pandas Basics | Data manipulation & cleaning <br><small>DataFrames, operations</small> | ▶️ Coming Soon |
+| NumPy Basics | Numerical computing foundation <br><small>Arrays, broadcasting</small> | ▶️ Coming Soon |
+| Visualization | Matplotlib & Seaborn tutorial series <br><small>Charts, EDA</small> | ▶️ Coming Soon |
+| SQL for Data | SQL essentials for analysts <br><small>Joins, queries</small> | ▶️ Coming Soon |
+ 
 
 ---
 
@@ -77,58 +78,63 @@ This repository provides a **common foundational track** shared across all field
 <h2 id="deeplearning">🔥 3. Deep Learning</h2>
 
 ## 🧱 Learning Path
-| Description | Link |
-|------------|------|
-| 100 Days of Deep Learning | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) |
-| PyTorch full tutorial | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7) |
-| Neural networks from scratch | ▶️ [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
-| Deep learning visual intuition | ▶️ [Link](https://youtu.be/aircAruvnKk) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| 100 Days of DL | Complete deep learning roadmap <br><small>CNNs, RNNs, transformers</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) |
+| PyTorch Tutorial | Full PyTorch hands-on guide <br><small>Tensors, models, training loops</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7) |
+| Neural Nets From Scratch | Build neural nets from first principles <br><small>Math + code</small> | ▶️ [Link](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
+| DL Visual Intuition | Visual explanation of DL concepts <br><small>Forward pass, activations</small> | ▶️ [Link](https://youtu.be/aircAruvnKk) |
 
 ---
 
 ## 🔍 Transformers & LLM Foundations
-| Description | Link |
-|------------|------|
-| Transformer architecture explained | ▶️ [Link](https://youtu.be/8fX3rOjTloc) |
-| Intro to LLMs | ▶️ [Link](https://youtu.be/zjkBMFhNj_g) |
-| Deep dive into LLMs | ▶️ [Link](https://youtu.be/7xTGNNLPyMI) |
-| Fine-tuning models | ▶️ [Link](https://youtu.be/eC6Hd1hFvos) |
-| Transformers simplified | ▶️ [Link](https://youtu.be/ZhAz268Hdpw) |
-| Attention explained | ▶️ [Link](https://youtu.be/wjZofJX0v4M) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| Transformers Explained | Architecture breakdown <br><small>Attention, encoder-decoder</small> | ▶️ [Link](https://youtu.be/8fX3rOjTloc) |
+| Intro to LLMs | High-level overview of LLMs <br><small>How large models work</small> | ▶️ [Link](https://youtu.be/zjkBMFhNj_g) |
+| LLM Deep Dive | In-depth architecture & scaling laws <br><small>Training dynamics</small> | ▶️ [Link](https://youtu.be/7xTGNNLPyMI) |
+| Fine-Tuning Models | Fine-tuning approaches & demos <br><small>LoRA, PEFT</small> | ▶️ [Link](https://youtu.be/eC6Hd1hFvos) |
+| Transformers Simplified | Easy explanation of transformers <br><small>Great for beginners</small> | ▶️ [Link](https://youtu.be/ZhAz268Hdpw) |
+| Attention Explained | Deep dive on attention mechanism <br><small>Key-query-value</small> | ▶️ [Link](https://youtu.be/wjZofJX0v4M) |
 
 ---
 
 ## 🛠 DL Projects
-| Description | Link |
-|------------|------|
-| Applied DL projects | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvyT7wdfDJSHhS0FdF8jd-U) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| DL Project Playlist | Applied DL projects <br><small>CNNs, NLP, vision tasks</small> | ▶️ [Link](https://youtube.com/playlist?list=PLfFghEzKVmjvyT7wdfDJSHhS0FdF8jd-U) |
 
 ---
 
 <h2 id="genai">🤖 4. LLMs & Generative AI</h2>
 
 ## 🧰 Tools & Frameworks
-| Description | Link |
-|------------|------|
-| LangChain tutorials | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) |
-| LangGraph tutorials | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL) |
-| FastAPI for GenAI | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ) |
-| HuggingFace Transformers Course | 🔗 [Link](https://huggingface.co/learn) |
-| HuggingFace Model Playground | 🔗 [Link](https://huggingface.co/models) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| LangChain Tutorials | Building LLM apps with LangChain <br><small>RAG, agents</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) |
+| LangGraph Tutorials | Multi-agent workflows with LangGraph <br><small>Graph-based pipelines</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL) |
+| FastAPI for GenAI | Build GenAI apps with FastAPI <br><small>Backend + LLM serving</small> | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ) |
+| HF Transformers Course | Official HuggingFace Transformers course <br><small>Tokenizers, models</small> | 🔗 [Link](https://huggingface.co/learn) |
+| HF Model Hub | Explore + test open-source models <br><small>LLMs, vision, audio</small> | 🔗 [Link](https://huggingface.co/models) |
 
 ---
 
 ## 🧩 Concepts
-| Description | Link |
-|------------|------|
-| RAG explained | ▶️ [Link](https://youtu.be/sVcwVQRHIc8) |
-| Map of GenAI | ▶️ [Link](https://youtu.be/WzvURhaDZqI) |
-| Model Context Protocol (MCP) | ▶️ [Link](https://youtu.be/3_TN1i3MTEU) |
+| Topic | Description | Link |
+|-------|-------------|------|
+| RAG Explained | Retrieval-augmented generation explained simply <br><small>Architecture + workflows</small> | ▶️ [Link](https://youtu.be/sVcwVQRHIc8) |
+| Map of GenAI | Overview of GenAI landscape <br><small>Tools, models, frameworks</small> | ▶️ [Link](https://youtu.be/WzvURhaDZqI) |
+| Model Context Protocol | Standardized context system for LLMs <br><small>OpenAI MCP</small> | ▶️ [Link](https://youtu.be/3_TN1i3MTEU) |
 
 ---
 
 <h2 id="robotics">🦾 5. Robotics</h2>
-*(Add resources later)*
+| Topic | Description | Link |
+|-------|-------------|------|
+| Robotics Basics | Foundations of robotics engineering <br><small>Kinematics, dynamics</small> | ▶️ Coming Soon |
+| ROS Tutorials | Robot Operating System tutorials <br><small>Navigation, control</small> | ▶️ Coming Soon |
+| Robotics Projects | Hands-on robotics builds <br><small>Sim + real robots</small> | ▶️ Coming Soon |
+
 
 ---
 
