@@ -51,7 +51,7 @@ Multimodal systems, reasoning, agents, RL, world models, memory.
 # 🧩 How These Fields Connect
 
 <p align="center">
-  <img src="./images/fields-connection-diagram.png" width="600">
+  <img src="images/field-connection-diagram.png.png" width="600">
 </p>
 
 
