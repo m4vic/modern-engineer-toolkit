@@ -49,17 +49,10 @@ Multimodal systems, reasoning, agents, RL, world models, memory.
 ---
 
 # 🧩 How These Fields Connect
-Python → Math → Data Science  
-↓  
-Machine Learning  
-↓  
-Deep Learning  
-/       \  
-Robotics     GenAI  
-\         /  
-Quant Finance  
-↓  
-AGI
+
+
+
+
 
 ---
 
