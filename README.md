@@ -43,7 +43,6 @@ Multimodal systems, reasoning, agents, RL, world models, memory.
 - 💹 [Quant Finance](./QuantFinance/README.md)  
 - 🧠 [AGI](./AGI/README.md)  
 - 🧰 [Tools & MLOps](./Tools/README.md)  
-- 📚 [Books & Papers](./Books/README.md)  
 - 🧪 [Projects](./Projects/README.md)
 
 ---
