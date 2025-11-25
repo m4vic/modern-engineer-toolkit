@@ -70,7 +70,11 @@ Quant uses **classical ML + statistics**, with optional DL enhancements.
 - LSTMs  
 - GRUs  
 - Temporal CNNs  
-- Transformers for long-range forecasting (advanced)
+
+### Optional (Advanced):
+- C++ for HFT / ultra-low latency systems
+- Rust for performance-critical quant tools
+- Transformers for long-range forecasting
 
 ---
 
