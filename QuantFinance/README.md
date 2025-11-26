@@ -37,9 +37,9 @@ Each phase includes **free + paid** resources.
 
 ## 📌 Prerequisites
 
-Before starting Quant Finance, complete these core fundamentals:
+Before starting Quant Finance, complete these core [Fundamentals](./Fundamentals/README.md):
 
-- [Fundamentals](./Fundamentals/README.md) 
+- python 
 - Math (Linear Algebra, Calculus, Probability) → Fundamentals/README.md
 - Data Basics → Fundamentals/README.md
 
