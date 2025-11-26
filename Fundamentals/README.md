@@ -62,7 +62,7 @@ Math is the strongest universal requirement across AI fields.
 |----------------------------------------|--------------|------|---------------------------------------------------------|
 | Khan Academy: Statistics & Probability | Video Course | Free | https://www.khanacademy.org/math/statistics-probability |
 | 3Blue1Brown: Essence of Linear Algebra | Video Series | Free | https://www.3blue1brown.com/topics/linear-algebra       |
-| 3Blue1Brown: Essence of Calculus       | Video Series | Free | 3Blue1Brown YouTube channel                             |
+| 3Blue1Brown: Essence of Calculus       | Video Series | Free | https://youtu.be/WUvTyaaNkzM?si=zDUVvGljxf__9hBM        |
 | 3Blue1Brown: Probability Series        | Video Series | Free | https://www.3blue1brown.com/topics/probability          |
 | MIT OCW: Linear Algebra (18.06)        | Full Course  | Free | MIT OpenCourseWare                                      |
 
