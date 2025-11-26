@@ -1,79 +1,39 @@
-# 💹 Quant Finance Roadmap (Complete)
+# 💹 Quant Finance Roadmap (Complete — Quant-Only, No Fundamentals)
 
-This is the **full, detailed quantitative finance roadmap** covering:
+This roadmap assumes you have already completed the **Global Fundamentals** (Python, Math, Data Basics).
 
-- Free courses  
-- Paid programs  
-- Math resources  
-- Python resources  
-- GitHub repositories  
-- Derivatives pricing  
-- Stochastic calculus  
-- Backtesting  
-- ML for finance  
-- Algorithmic trading  
-- Projects  
-- 2-year learning plan  
+The roadmap begins directly with Quant Finance concepts.
 
 ---
 
 # 🗂 Roadmap Structure
 
-### **Phase 0 — Prerequisites (1–3 months)**  
-Math, Python, statistics foundation.
+### **Phase 1 — Beginner Quant Concepts (3–6 Months)**  
+Hull, market basics, options introduction, financial engineering overview.
 
-### **Phase 1 — Beginner Quant Finance (3–6 months)**  
-Hull, introductory financial engineering.
+### **Phase 2 — Intermediate (6–12 Months)**  
+Stochastic calculus, Shreve, numerical methods, Monte Carlo, pricing engines.
 
-### **Phase 2 — Intermediate (6–12 months)**  
-Stochastic calculus, Shreve, Wilmott, numerical methods.
+### **Phase 3 — Advanced Specializations (Year 2+)**  
+Volatility, HFT, systematic & ML quant, DL for finance, credit, fixed income.
 
-### **Phase 3 — Advanced (Year 2+)**  
-Volatility, systematic trading, fixed income, credit, ML-heavy content.
-
-Each phase includes **free + paid** resources.
-
----
-
-## 📌 Prerequisites
-
-Before starting Quant Finance, complete these core  [Fundamentals](./Fundamentals/README.md) 
-
-- python 
-- Math (Linear Algebra, Calculus, Probability) → Fundamentals/README.md
-- Data Basics → Fundamentals/README.md
-
-
-## 🐍 Python for Finance
-
-| Resource                                       | Type        | Cost | Link |
-|------------------------------------------------|-------------|------|------|
-| DataCamp: Intro to Python for Finance          | Interactive | Paid | https://www.datacamp.com/courses/introduction-to-python-for-finance |
-| DataCamp: Finance Fundamentals Track           | Track       | Paid | https://www.datacamp.com/tracks/finance-fundamentals-in-python |
-| Sentdex: Python for Finance Playlist           | YouTube     | Free | https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ |
-| freeCodeCamp: Algorithmic Trading in Python    | YouTube     | Free | freeCodeCamp channel |
-
----
-
-## 📦 GitHub Repositories (Prerequisites)
-
-| Repository                | Description                    | Link |
-|---------------------------|--------------------------------|------|
-| JP Morgan Python Training | Python for finance engineers   | https://github.com/jpmorganchase/python-training |
-| awesome-quant             | List of 300+ quant resources   | https://github.com/wilsonfreitas/awesome-quant |
+### **Optional Tracks**  
+- C++ for HFT  
+- Deep Learning for Quant  
+- ML-driven quant research  
 
 ---
 
 # 📘 PHASE 1 — Beginner Quant Finance (3–6 Months)
 
-## 🎓 Free Online Courses
+## 🎓 Free Courses
 
 | Course | Provider | Cost | Link |
 |--------|----------|------|------|
 | Financial Markets | Yale | Free audit | Coursera |
 | Intro to Finance & Accounting | UPenn | Free audit | Coursera |
 | Intro to Financial Engineering | Columbia | Free audit | https://www.coursera.org/learn/financial-engineering-intro |
-| Finance & Quant Modeling | Wharton | Free audit | https://www.coursera.org/specializations/finance-quantitative-modeling-analysts |
+| Quant Modeling for Analysts | Wharton | Free audit | https://www.coursera.org/specializations/finance-quantitative-modeling-analysts |
 
 ---
 
@@ -81,142 +41,204 @@ Before starting Quant Finance, complete these core  [Fundamentals](./Fundamental
 
 | Channel | Focus | Link |
 |---------|--------|------|
-| Patrick Boyle | Quant strategies, hedge funds | https://www.youtube.com/@PBoyle |
-| QuantPy | Python + finance | https://www.youtube.com/@QuantPy |
-| 3Blue1Brown | Math intuition | https://www.youtube.com/c/3blue1brown |
+| Patrick Boyle | Quant strategies | https://www.youtube.com/@PBoyle |
+| QuantPy | Python + Finance | https://www.youtube.com/@QuantPy |
+| Analytics University (Pani) | Quant career + learning | YouTube |
 
 ---
 
-## 📚 Books (Phase 1)
+## 📚 Books (Beginner)
 
-- **John Hull — Options, Futures & Derivatives**  
+- **Hull — Options, Futures & Derivatives**  
 - **Quantitative Finance for Dummies**  
-- **Quantitative Trading — Ernest Chan**
+- **Ernest Chan — Quantitative Trading**  
 
 ---
 
-# 📗 PHASE 2 — Intermediate (6–12 Months)
+## 🧪 Beginner Projects
 
-## 🎓 Stochastic Calculus (Free Courses)
-
-| Resource | Content | Link |
-|----------|----------|------|
-| MIT 18.S096 | Ito calculus, Black–Scholes | https://ocw.mit.edu/courses/18-s096 |
-| Columbia FE Specialization | Pricing models | https://www.coursera.org/specializations/financialengineering |
-| WorldQuant University MScFE | Full free Master's | https://www.wqu.edu/mscfe |
-| Stochastip YouTube | Stochastic calculus playlist | https://www.youtube.com/playlist?list=PLvtFb3DXIpiBkpUpgpjmGmNExpJhwcHyy |
+- Black–Scholes pricer  
+- Greeks calculator  
+- Binomial tree pricer  
+- Simple backtester  
+- Volatility visualizer  
 
 ---
 
-## 📚 Books (Phase 2)
+# 📗 PHASE 2 — Intermediate Quant (6–12 Months)
+
+## 🎓 Stochastic Calculus & FE Courses
+
+| Course | Provider | Link |
+|--------|----------|------|
+| MIT 18.S096 | MIT | https://ocw.mit.edu/courses/18-s096 |
+| Columbia FE Specialization | Columbia | https://www.coursera.org/specializations/financialengineering |
+| WorldQuant MScFE | WorldQuant | https://www.wqu.edu/mscfe |
+| Stochastip Playlist | YouTube | https://www.youtube.com/playlist?list=PLvtFb3DXIpiBkpUpgpjmGmNExpJhwcHyy |
+
+---
+
+## 📚 Books (Intermediate)
 
 - **Wilmott Introduces Quantitative Finance**  
-- **Mark Joshi — Mathematical Finance**  
-- **Shreve I & II (Stochastic Calculus)**  
-- **Glasserman — Monte Carlo Methods**
+- **Joshi — Concepts & Practice of Mathematical Finance**  
+- **Shreve I — Stochastic Calculus for Finance**  
+- **Shreve II — Continuous Time Models**  
+- **Glasserman — Monte Carlo Methods**  
 
 ---
 
-## 🧪 Platforms & Tools
+## 🧪 Intermediate Projects
 
-| Platform | Description | Link |
-|----------|-------------|------|
-| QuantConnect | Backtesting + live trading | https://www.quantconnect.com |
-| Qlib (Microsoft) | ML-driven quant research | https://github.com/microsoft/qlib |
-| Zipline | Backtesting engine | GitHub |
-
----
-
-# 🚀 PHASE 3 — Advanced (Year 2+)
-
-Learn specialized verticals.
-
-## Subfields:
-
-- **Volatility**  
-- **Fixed Income**  
-- **Credit**  
-- **Systematic Trading**  
-- **Market Microstructure**  
-- **Machine Learning for Finance**  
+- Monte Carlo option pricer  
+- GBM simulator  
+- Stochastic volatility model (Heston)  
+- Fixed income calculators  
+- Greeks engine  
+- Yield curve bootstrapping  
 
 ---
 
-## 🎥 Advanced YouTube Channels
+## 🛠 Platforms
 
-- **Hudson & Thames**  
-- **Analytics University (Pani)**  
-- **Stochastip**  
-- **QuantPy Advanced playlists**
-
----
-
-## 🎓 Paid Certifications
-
-| Certification | Cost | Focus | Link |
-|---------------|------|--------|------|
-| CQF | ~$19,000 | Industry-standard quant training | https://www.cqf.com |
-| FRM | ~$2,000 | Risk management | GARP |
-| CFA | ~$3,500 | Investment management | CFA Institute |
-| IIQF Programs | ₹1.3 lakh | FE + placement | https://www.iiqf.org |
-| Udacity AI for Trading | ~$2,000 | ML + trading | Udacity |
+| Platform | Purpose | Link |
+|----------|----------|------|
+| QuantConnect | Backtesting | https://quantconnect.com |
+| Qlib | ML-driven quant | https://github.com/microsoft/qlib |
+| Zipline | Backtesting | GitHub |
 
 ---
 
-# 🛠 GitHub Repos (Advanced)
+# 🚀 PHASE 3 — Advanced Quant (Year 2+)
 
-- https://github.com/wilsonfreitas/awesome-quant  
-- https://github.com/microsoft/qlib  
-- https://github.com/cybergeekgyan/Quant-Developers-Resources  
-- https://github.com/hudson-and-thames/mlfinlab  
-- https://github.com/firmai/financial-machine-learning  
-- https://github.com/QuantConnect/Lean  
-- https://github.com/scumabo/AI-for-Trading  
+## Specialization Tracks
+
+### 🌀 1. Volatility
+- Local/stochastic volatility  
+- Implied volatility surfaces  
+- Gatheral’s books  
+- SABR model  
+
+### 🧮 2. Fixed Income
+- Term structure models  
+- Vasicek/CIR  
+- Bond pricing engines  
+
+### ⚠️ 3. Risk Quant
+- VaR / CVaR  
+- Stress testing  
+- Credit models  
+
+---
+
+# 🤖 4. Systematic / ML Quant (Advanced ML Track)
+
+### Recommended Topics
+- Feature engineering for markets  
+- Regime detection  
+- Factor modeling  
+- Meta-labeling  
+- ML-driven signals  
+
+### Suggested Resources
+- Hudson & Thames (Financial ML)  
+- *Advances in Financial Machine Learning* (Marcos Lopez de Prado)  
+- Microsoft Qlib (ML quant toolkit)  
+
+### ML Projects
+- ML factor model  
+- Linear/Tree/Boosted models for signals  
+- Market regime classifier  
+- Volatility prediction  
+- ML-driven backtester  
+
+---
+
+# 🔥 5. Deep Learning for Quant (Advanced DL Track)
+
+### Topics
+- LSTMs / GRUs  
+- Temporal convolution  
+- Transformers for time series  
+- Autoencoders for denoising  
+- Reinforcement learning for trading  
+
+### Tools
+- PyTorch  
+- Qlib + DL  
+- tsai  
+- darts  
+
+### DL Projects
+- Transformer-based price prediction  
+- Deep volatility forecasting  
+- Reinforcement learning trading agent  
+- Options surface modeling with neural nets  
+
+---
+
+# ⚡ Optional: C++ for HFT Track
+
+Only needed if targeting high-frequency trading.
+
+### What to learn:
+- Modern C++ (C++17/20)  
+- Multithreading  
+- Lock-free programming  
+- Low-latency systems  
+- Network IO  
+- FIX protocol basics  
+
+### Resources
+- C++ Crash Course — Josh Lospinoso  
+- Awesome-HFT GitHub list  
+- CME Market Microstructure papers  
 
 ---
 
 # 📈 2-Year Project Roadmap
 
-## Year 1 Projects
+## Year 1
 - Stock data downloader  
 - Black–Scholes pricer  
-- Greeks calculator  
-- Binomial tree pricer  
-- Monte Carlo simulation engine  
+- Greeks + binomial trees  
+- Bootstrapped yield curve  
+- Monte Carlo engine  
+- GBM + Heston simulator  
 
-## Year 2 Projects
-- GBM simulation engine  
-- Yield curve bootstrapping  
-- Portfolio optimizer  
-- GARCH volatility model  
-- ML-based trading system  
-- Full backtesting engine  
+## Year 2
+- Full backtester  
+- Volatility surface replicator  
+- Factor model pipeline  
+- GARCH / EGARCH modeling  
+- ML quant system  
+- Deep Learning trading agent  
+- Options pricing engine with DL  
 
 ---
 
-# ⚡ Fast-Track for AI/ML Background (Your Case)
+# 💡 Fast-Track for AI/ML Background
 
-### Immediate:
-- Start MIT 18.S096  
-- Enroll in WorldQuant MScFE (free)  
-- Follow Patrick Boyle, QuantPy  
+### Immediately:
+- MIT 18.S096  
 - Clone awesome-quant  
+- Follow Patrick Boyle & QuantPy  
+- Start QuantConnect  
 
-### 3-Month Targets:
-- Complete Columbia FE Part 1  
-- Implement Black–Scholes + Greeks  
-- Begin QuantConnect backtests  
+### 3 Months:
+- Hull  
+- Columbia FE Part 1  
+- Price options in Python  
 
-### 6-Month Targets:
+### 6 Months:
 - Shreve I  
-- Build 3 intermediate quant projects  
-- Start exploring factor models  
+- Build 3 pricing engines  
+- Start ML quant signals  
 
 ---
 
-# 🎉 End of Roadmap
-
-You are now ready to specialize or prepare for interviews.
+# 🎉 End of Roadmap  
+You now have a full, modular, modern quant learning path.
 
 ---
 
