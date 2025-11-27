@@ -20,6 +20,19 @@ Cross-linked with:
 
 ---
 
+## ⚡ Quick Navigation
+
+Jump directly to any phase:
+
+- **[Phase 0 — Foundation](#-phase-0--foundation-12-months)**
+- **[Phase 1 — Beginner Robotics](#-phase-1--beginner-robotics-23-months)**
+- **[Phase 2 — Intermediate Robotics](#-phase-2--intermediate-robotics-36-months)**
+- **[Phase 3 — Advanced Robotics](#-phase-3--advanced-robotics-612-months)**
+- **[Phase 4 — Specialization](#-phase-4--specialization-year-2)**
+
+---
+
+
 ## 📘 Prerequisites  
 (Complete these in the **Fundamentals** section of the repo)
 
