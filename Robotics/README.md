@@ -22,21 +22,18 @@ A modern, simulation-first roadmap for mastering robotics: ROS2, manipulation, m
 ---
 
 ## 🗺 High-Level Roadmap
-```mermaid
 flowchart TD
 
-A[Phase 0: Foundation\nMath • Physics • Programming • Electronics] --> B[Phase 1: Beginner Robotics\nKinematics • Mobile Robots • Basic Simulation]
+A[Phase 0: Foundation<br/>Math • Physics • Programming • Electronics] --> B[Phase 1: Beginner Robotics<br/>Kinematics • Mobile Robots • Simulation]
 
-B --> C[Phase 2: Intermediate Robotics\nROS2 • Motion Planning • Manipulation • Perception]
+B --> C[Phase 2: Intermediate Robotics<br/>ROS2 • Motion Planning • Manipulation • Perception]
 
-C --> D[Phase 3: Advanced Robotics\nSLAM • Navigation • RL • High-Fidelity Simulation]
+C --> D[Phase 3: Advanced Robotics<br/>SLAM • Navigation • RL • High-Fidelity Simulation]
 
-D --> E[Phase 4: Specialization\nManipulation • Autonomy • Vision • UAVs • Industrial Robotics]
+D --> E[Phase 4: Specialization<br/>Manipulation • Autonomy • Vision • UAVs • Industrial Robotics]
 
-E --> F[Year 2+: Research & Industry\nCertifications • Open-Source • Publications]
+E --> F[Year 2+: Research & Industry<br/>Certifications • Open-Source • Publications]
 
-
----
 
 ## 🧭 Overview  
 Robotics integrates **mechanics**, **electronics**, **real-time systems**, **control theory**, **simulation**, and **AI-driven perception & planning**.
