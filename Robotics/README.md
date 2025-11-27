@@ -34,9 +34,6 @@ Cross-linked with:
 
 # 🛠️ Phase 0 — Foundation (1–2 Months)
 
-<details>
-<summary><strong>Mathematics & Physics Resources</strong></summary>
-
 | Resource | Type | Cost | Link |
 |---------|------|------|------|
 | Khan Academy Physics | Course | Free | https://www.khanacademy.org/science/physics |
@@ -44,7 +41,6 @@ Cross-linked with:
 | 3Blue1Brown Linear Algebra | Videos | Free | https://www.3blue1brown.com/topics/linear-algebra |
 | MIT OCW: Classical Mechanics | Course | Free | https://ocw.mit.edu |
 
-</details>
 
 <details>
 <summary><strong>Programming & Electronics Resources</strong></summary>
