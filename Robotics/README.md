@@ -5,9 +5,33 @@ A modern, simulation-first roadmap for mastering robotics: ROS2, manipulation, m
 
 ---
 
+## 🗺 High-Level Roadmap (Explained)
+
+Robotics mastery follows a **layered progression**. Each stage builds on the previous one:
+
+1. **Phase 0 — Foundation:**  
+   Build the mathematics, physics, programming, and electronics intuition needed to understand mechanical systems and robot behavior.
+
+2. **Phase 1 — Beginner Robotics:**  
+   Learn basic kinematics, sensors, mobile robots, and begin experimenting with simulations (Webots, Gazebo).
+
+3. **Phase 2 — Intermediate Robotics:**  
+   Learn ROS / ROS2, robot kinematics/dynamics, motion planning, manipulators, perception fundamentals.
+
+4. **Phase 3 — Advanced Robotics:**  
+   Build complete autonomy systems: SLAM, navigation, reinforcement learning, high-fidelity simulation.
+
+5. **Phase 4 — Specialization:**  
+   Choose a professional field—Manipulation, Vision, Autonomous Navigation, UAVs, or Industrial Robotics.
+
+6. **Year 2+:**  
+   Apply robotics: certifications, research, open-source contributions, autonomous systems development.
+
+---
+
 ## ⚡ Quick Navigation
 
-- **[High-Level Roadmap](#-high-level-roadmap)**
+- **[High-Level Roadmap](#-high-level-roadmap-explained)**
 - **[Overview](#-overview)**
 - **[Prerequisites](#-prerequisites)**
 - **[Phase 0 — Foundation](#-phase-0--foundation-12-months)**
@@ -20,20 +44,6 @@ A modern, simulation-first roadmap for mastering robotics: ROS2, manipulation, m
 - **[Cross-links](#-cross-links)**
 
 ---
-
-## 🗺 High-Level Roadmap
-flowchart TD
-
-A[Phase 0: Foundation<br/>Math • Physics • Programming • Electronics] --> B[Phase 1: Beginner Robotics<br/>Kinematics • Mobile Robots • Simulation]
-
-B --> C[Phase 2: Intermediate Robotics<br/>ROS2 • Motion Planning • Manipulation • Perception]
-
-C --> D[Phase 3: Advanced Robotics<br/>SLAM • Navigation • RL • High-Fidelity Simulation]
-
-D --> E[Phase 4: Specialization<br/>Manipulation • Autonomy • Vision • UAVs • Industrial Robotics]
-
-E --> F[Year 2+: Research & Industry<br/>Certifications • Open-Source • Publications]
-
 
 ## 🧭 Overview  
 Robotics integrates **mechanics**, **electronics**, **real-time systems**, **control theory**, **simulation**, and **AI-driven perception & planning**.
@@ -52,232 +62,213 @@ Cross-linked with:
 ---
 
 ## 📘 Prerequisites  
-*All foundational math, physics, and programming are handled in:  
-➡️ [Fundamentals](../Fundamentals/README.md)*
+See: **[Fundamentals](../Fundamentals/README.md)**
 
 - Linear algebra, calculus, probability  
 - Classical mechanics  
 - Python + C++ basics  
-- Electronics basics  
+- Electronics fundamentals  
 
 ---
 
 # 🛠️ Phase 0 — Foundation (1–2 Months)
 
-### Mathematics & Physics Resources
+## Mathematics & Physics
 
-| Resource | Type | Cost | Link |
-|---------|------|------|------|
-| Khan Academy Physics | Course | Free | https://www.khanacademy.org/science/physics |
-| Khan Academy Linear Algebra | Course | Free | https://www.khanacademy.org/math/linear-algebra |
-| 3Blue1Brown Linear Algebra | Videos | Free | https://www.3blue1brown.com/topics/linear-algebra |
-| MIT OCW: Classical Mechanics | Course | Free | https://ocw.mit.edu |
+| Resource | Description | Link |
+|---------|-------------|------|
+| Khan Academy Physics | High-school physics essentials | ▶️ [Link](https://www.khanacademy.org/science/physics) |
+| Linear Algebra (Khan Academy) | Vectors, matrices, transformations | ▶️ [Link](https://www.khanacademy.org/math/linear-algebra) |
+| 3Blue1Brown – Linear Algebra | Visual math intuition | ▶️ [Link](https://www.3blue1brown.com/topics/linear-algebra) |
+| MIT OCW: Classical Mechanics | Rigid-body mechanics foundations | ▶️ [Link](https://ocw.mit.edu) |
 
-### Programming & Electronics Resources
+## Programming & Electronics
 
-| Resource | Type | Cost | Link |
-|---------|------|------|------|
-| Arduino Official Channel | YouTube | Free | https://www.youtube.com/c/Arduino |
-| SparkFun Electronics | Tutorials | Free | https://www.youtube.com/c/SparkFun |
-| Adafruit Industries | Tutorials | Free | https://www.youtube.com/c/AdafruitIndustries |
-| Python (W3Schools) | Web Tutorial | Free | https://www.w3schools.com/python |
-| C++ Basics | Web | Free | Multiple free sources |
+| Resource | Description | Link |
+|---------|-------------|------|
+| Arduino Official | Hardware programming basics | ▶️ [Link](https://www.youtube.com/c/Arduino) |
+| SparkFun Electronics | Sensors, circuits, electronics | ▶️ [Link](https://www.youtube.com/c/SparkFun) |
+| Adafruit Industries | Microcontrollers, sensors | ▶️ [Link](https://www.youtube.com/c/AdafruitIndustries) |
+| Python (W3Schools) | Beginner Python | ▶️ [Link](https://www.w3schools.com/python) |
 
-### Hardware Introduction
+## Hardware Introduction
 
-| Resource | Type | Focus | Link |
-|---------|------|--------|------|
-| James Bruton | YouTube | DIY robots, mechanisms | https://www.youtube.com/c/JamesBruton |
-| DroneBot Workshop | YouTube | Arduino, Pi, sensors | https://www.youtube.com/c/Dronebotworkshop |
-| How to Mechatronics | YouTube | Arduino + robotics | https://www.youtube.com/c/HowToMechatronics |
-| Jeremy Fielding | YouTube | Motors, actuators | https://www.youtube.com/c/JeremyFielding |
+| Resource | Description | Link |
+|---------|-------------|------|
+| James Bruton | DIY robotics design | ▶️ [Link](https://www.youtube.com/c/JamesBruton) |
+| DroneBot Workshop | Arduino, Raspberry Pi robotics | ▶️ [Link](https://www.youtube.com/c/Dronebotworkshop) |
+| How to Mechatronics | Arduino + mechanical builds | ▶️ [Link](https://www.youtube.com/c/HowToMechatronics) |
+| Jeremy Fielding | Motors, actuators explained | ▶️ [Link](https://www.youtube.com/c/JeremyFielding) |
 
 ---
 
 # 🚦 Phase 1 — Beginner Robotics (2–3 Months)
 
-### What you learn  
+### What You Learn  
 - Basic kinematics  
 - Mobile robots  
 - Sensors  
 - First simulations  
 
-### Free University Courses
+## University Courses
 
-| Course | Provider | Level | Link |
-|--------|----------|--------|------|
-| MIT 2.12: Intro to Robotics | MIT OCW | Beginner | https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/ |
-| Stanford CS223A | Stanford SEE | Beginner | https://see.stanford.edu/course/cs223a |
-| Hello Real World with ROS | Delft/edX | Beginner | https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system |
+| Course | Provider | Link |
+|--------|----------|------|
+| MIT 2.12 — Intro to Robotics | MIT OCW | ▶️ [Link](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/) |
+| Stanford CS223A | Stanford SEE | ▶️ [Link](https://see.stanford.edu/course/cs223a) |
+| Hello Real World with ROS | Delft / edX | ▶️ [Link](https://www.edx.org/learn/robotics/delft-university-of-technology-hello-real-world-with-ros-robot-operating-system) |
 
-### YouTube Channels
+## Channels
 
-| Channel | Focus | Subs |
+| Channel | Focus | Link |
 |--------|--------|------|
-| James Bruton | DIY robotics | 1.38M |
-| Jeremy Fielding | Motors & actuators | 1.14M |
-| SparkFun | Sensors | 242K |
-| Adafruit | Electronics | 460K |
+| James Bruton | DIY robots | ▶️ [Link](https://www.youtube.com/c/JamesBruton) |
+| Jeremy Fielding | Motors | ▶️ [Link](https://www.youtube.com/c/JeremyFielding) |
+| SparkFun | Sensors | ▶️ [Link](https://www.youtube.com/c/SparkFun) |
 
-### Simulation Platforms
+## Simulation Tools
 
-| Platform | Features | Link |
-|----------|----------|------|
-| Webots | Open-source, ideal for beginners | https://cyberbotics.com |
-| Gazebo | Physics + ROS integration | https://gazebosim.org |
-| CoppeliaSim | Multi-robot physics | https://www.coppeliarobotics.com |
+| Tool | Description | Link |
+|------|-------------|------|
+| Webots | Beginner-friendly simulation | ▶️ [Link](https://cyberbotics.com) |
+| Gazebo | ROS-based simulation | ▶️ [Link](https://gazebosim.org) |
+| CoppeliaSim | Manipulator simulation | ▶️ [Link](https://www.coppeliarobotics.com) |
 
 ---
 
 # 🧩 Phase 2 — Intermediate Robotics (3–6 Months)
 
-### What you learn  
-- ROS / ROS 2  
-- Manipulators, kinematics/dynamics  
+### Skills  
+- ROS / ROS2  
+- Kinematics & dynamics  
+- Manipulators  
 - Motion planning  
-- Basic perception  
+- Perception fundamentals  
 
-### Free Advanced Courses
+## Courses
 
 | Course | Provider | Link |
 |--------|----------|------|
-| Programming for Robotics (ROS) | ETH Zürich | https://rsl.ethz.ch/education-students/lectures/ros.html |
-| MIT Robotic Manipulation (6.4210) | MIT | https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/ |
-| Autonomous Mobile Robots | ETH/edX | edX platform |
+| Programming for Robotics (ROS) | ETH Zürich | ▶️ [Link](https://rsl.ethz.ch/education-students/lectures/ros.html) |
+| MIT Robotic Manipulation | MIT | ▶️ [Link](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) |
+| Autonomous Mobile Robots | ETH / edX | ▶️ edX |
 
-### ROS & Development Resources
+## ROS Resources
 
 | Resource | Type | Link |
 |----------|------|------|
-| ROS Docs | Official | https://www.ros.org |
-| ROS2 Docs | Official | https://docs.ros.org |
-| The Construct | Courses | https://www.theconstruct.ai |
-| Mastering Gazebo | Course | The Construct |
-| ROS2 Tutorials Repo | GitHub | https://github.com/sagar16812/Getting-Started-with-ROS2-A-Tutorial-Series |
+| ROS Docs | Official tutorials | ▶️ [Link](https://www.ros.org) |
+| ROS2 Docs | Official | ▶️ [Link](https://docs.ros.org) |
+| The Construct | Online ROS labs | ▶️ [Link](https://www.theconstruct.ai) |
 
-### Key GitHub Repositories
+## GitHub Repositories
 
 | Repo | Purpose | Link |
 |------|----------|------|
-| awesome-robotics | Curated list | https://github.com/search?q=awesome-robotics |
-| awesome-robotics-projects | Open-source robots | https://github.com/mjyc/awesome-robotics-projects |
-| navigation2 | ROS2 navigation | https://github.com/ros-planning/navigation2 |
-| moveit | Motion planning | https://github.com/moveit/moveit |
-| librealsense | Depth cameras | https://github.com/IntelRealSense/librealsense |
-| matlab-robotics | MATLAB robotics | https://github.com/mathworks-robotics/awesome-matlab-robotics |
+| awesome-robotics | Robotics ecosystem list | ▶️ [Link](https://github.com/search?q=awesome-robotics) |
+| navigation2 | ROS 2 Navigation | ▶️ [Link](https://github.com/ros-planning/navigation2) |
+| moveit | Manipulator planning | ▶️ [Link](https://github.com/moveit/moveit) |
+| librealsense | Intel depth cameras | ▶️ [Link](https://github.com/IntelRealSense/librealsense) |
 
 ---
 
 # 🧠 Phase 3 — Advanced Robotics (6–12 Months)
 
-### What you learn  
-- Full autonomy stack  
-- SLAM, mapping, localization  
-- Reinforcement learning for control  
-- High-fidelity simulation  
+## Skills  
+- SLAM  
+- Mapping & localization  
+- Navigation stacks  
+- RL-based robotics  
+- Vision-based control  
+- Advanced simulation  
 
-### Advanced Courses
+## Advanced Courses
 
 | Course | Provider | Link |
 |--------|----------|------|
-| MIT MicroMasters in Robotics | MIT/edX | edX |
-| SLAM & Navigation (ROS2) | ROS | https://docs.ros.org/humble/p/nav2/ |
-| RL for Robotics | Various | Multiple |
-| OpenCV University Bootcamps | OpenCV | https://opencv.org/university/free-courses/ |
+| MIT MicroMasters in Robotics | MIT | ▶️ edX |
+| SLAM & Navigation (ROS2) | ROS2 | ▶️ [Link](https://docs.ros.org/humble/p/nav2/) |
+| OpenCV University | Computer vision bootcamps | ▶️ [Link](https://opencv.org/university/free-courses/) |
 
-### Specialized Topics
+## Specialized Topics
 
-#### Computer Vision
-- OpenCV University bootcamps  
-- PyImageSearch CV crash course  
-- YOLOv8 (Ultralytics)
+### Computer Vision
+- OpenCV University (free)
+- PyImageSearch Crash Course  
+- YOLOv8 (Ultralytics) ▶️ [Link](https://github.com/ultralytics/ultralytics)
 
-#### Deep Learning & Perception  
-- PyTorch, TensorFlow  
-- OpenCV DNN module  
-
-#### SLAM Tools  
+### SLAM Tools  
 - SLAM Toolbox  
 - ORB-SLAM3  
-- Hector SLAM  
+- FastSLAM / Hector SLAM  
+
+### Robot Learning  
+- PPO, SAC, DDPG  
+- Isaac Gym / Isaac Sim  
 
 ---
 
 # 🦾 Phase 4 — Specialization (Year 2+)
 
-### Paid Certifications
+## Certifications
 
-| Certification | Provider | Focus |
-|---------------|----------|--------|
-| Udacity Robotics Nanodegree | Udacity | ROS, Gazebo, autonomy |
-| FANUC (Operator/Technician) | FANUC | Industrial robotics |
-| CIRP | ATMAE | Robot programming basics |
-| KUKA College | KUKA | KUKA programming |
+| Certification | Provider | Link |
+|---------------|----------|------|
+| Robotics Nanodegree | Udacity | ▶️ Udacity |
+| FANUC Operator | FANUC | ▶️ FANUC |
+| CIRP | ATMAE | ▶️ ATMAE |
+| KUKA College | KUKA | ▶️ KUKA |
 
-### Specialization Areas
+## Specialization Areas
 
-#### Manipulation  
-- MIT 6.4210  
+### Manipulation  
+- MIT Manipulation  
 - MoveIt tutorials  
-- Dexterous hand research  
 
-#### Humanoids & Legged Robotics  
+### Legged Robotics  
 - Berkeley Humanoid Lite  
-- Boston Dynamics research papers  
+- Boston Dynamics papers  
 
-#### Autonomous Vehicles  
+### Autonomous Vehicles  
 - ETH Mobile Robots  
 - TurtleBot3 + ROS2  
 - NASA Open Source Rover  
+
+### UAV Robotics  
+- PX4 + Gazebo  
+- Drone flight dynamics  
 
 ---
 
 # 🧪 Projects (Beginner → Advanced)
 
-### Beginner  
-- Line follower  
-- Obstacle avoider  
+## Beginner  
+- Line follower robot  
+- Simple obstacle avoider  
 - Differential drive simulation  
-- Basic IK robot arm  
+- Arduino robotic arm  
 
-### Intermediate  
+## Intermediate  
 - ROS2 mobile robot  
-- LIDAR mapping  
+- LIDAR-based mapping  
 - MoveIt pick-and-place  
-- Vision-based tracking  
+- Vision-based target tracking  
 
-### Advanced  
-- Full SLAM + Navigation2 pipeline  
+## Advanced  
+- Full autonomous navigation system  
 - Quadruped gait controller  
-- Vision-language robotic agent  
-- Drone autonomy (PX4 + Gazebo)  
+- Vision-language robotic assistant  
+- Drone autonomy stack  
 
 ---
 
 # 📅 Suggested Timeline
 
-### Months 1–2: Foundations  
-- Python/C++ basics  
-- Arduino basics  
-- Simple simulations  
-
-### Months 3–4: Beginner  
-- MIT/Stanford courses  
-- Mobile robot simulation  
-- Kinematics basics  
-
-### Months 5–6: ROS2 + Kinematics  
-- Delft ROS course  
-- Navigation basics  
-- Full robot build in simulation  
-
-### Months 7–12: Specialization  
-Pick 1: manipulation, autonomy, vision, UAVs  
-
-### Year 2+  
-- Certifications  
-- Open-source contributions  
-- Research projects  
+**Months 1–2:** Foundation  
+**Months 3–4:** Beginner robotics  
+**Months 5–6:** ROS2 + kinematics  
+**Months 7–12:** Specialization track  
+**Year 2+:** Certifications, research, open-source  
 
 ---
 
@@ -291,4 +282,3 @@ Pick 1: manipulation, autonomy, vision, UAVs
 
 # ✔️ End of Robotics Roadmap  
 *Part of the Modern Engineer Toolkit*
-
