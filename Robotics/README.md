@@ -22,6 +22,18 @@ A modern, simulation-first roadmap for mastering robotics: ROS2, manipulation, m
 ---
 
 ## 🗺 High-Level Roadmap
+```mermaid
+flowchart TD
+
+A[Phase 0: Foundation\nMath • Physics • Programming • Electronics] --> B[Phase 1: Beginner Robotics\nKinematics • Mobile Robots • Basic Simulation]
+
+B --> C[Phase 2: Intermediate Robotics\nROS2 • Motion Planning • Manipulation • Perception]
+
+C --> D[Phase 3: Advanced Robotics\nSLAM • Navigation • RL • High-Fidelity Simulation]
+
+D --> E[Phase 4: Specialization\nManipulation • Autonomy • Vision • UAVs • Industrial Robotics]
+
+E --> F[Year 2+: Research & Industry\nCertifications • Open-Source • Publications]
 
 
 ---
