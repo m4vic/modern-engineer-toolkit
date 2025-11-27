@@ -12,10 +12,10 @@ This roadmap progresses from prerequisites → beginner → intermediate → adv
 Cross-linked with:
 
 - [Fundamentals](../Fundamentals/README.md)
-- [Machine Learning](../Machine-Learning/README.md)
-- [Deep Learning](../Deep-Learning/README.md)
-- [GenAI / LLMs](../GenAI/README.md)
-- [Quant](../Quant/README.md)
+- [Machine Learning](../MachineLearning/README.md)
+- [Deep Learning](../DeepLearning/README.md)
+- [GenAI / LLMs](../GenerativeAI/README.md)
+- [Quant](../QuantFinance/README.md)
 - [AGI](../AGI/README.md)
 
 ---
