@@ -58,19 +58,19 @@ Math is the strongest universal requirement across AI fields.
 
 ## 📚 Recommended Math Resources
 
-| Resource                               | Type         | Cost | Link/Notes                                              |
-|----------------------------------------|--------------|------|---------------------------------------------------------|
-| Khan Academy: Statistics & Probability | Video Course | Free | https://www.khanacademy.org/math/statistics-probability |
-| 3Blue1Brown: Essence of Linear Algebra | Video Series | Free | https://www.3blue1brown.com/topics/linear-algebra       |
-| 3Blue1Brown: Essence of Calculus       | Video Series | Free | https://youtu.be/WUvTyaaNkzM?si=zDUVvGljxf__9hBM        |
-| 3Blue1Brown: Probability Series        | Video Series | Free | https://www.3blue1brown.com/topics/probability          |
-| MIT OCW: Linear Algebra (18.06)        | Full Course  | Free | MIT OpenCourseWare                                      |
+| Resource                               | Type         | Cost | Link |
+|----------------------------------------|--------------|------|------|
+| Khan Academy: Statistics & Probability | Video Course | Free | ▶️ [Link](https://www.khanacademy.org/math/statistics-probability) |
+| 3Blue1Brown: Essence of Linear Algebra | Video Series | Free | ▶️ [Link](https://www.3blue1brown.com/topics/linear-algebra) |
+| 3Blue1Brown: Essence of Calculus       | Video Series | Free | ▶️ [Link](https://youtu.be/WUvTyaaNkzM?si=zDUVvGljxf__9hBM) |
+| 3Blue1Brown: Probability Series        | Video Series | Free | ▶️ [Link](https://www.3blue1brown.com/topics/probability) |
+| MIT OCW: Linear Algebra (18.06)        | Full Course  | Free | ▶️ MIT OpenCourseWare |
 
 ---
 
 # 📊 3. Data Basics (Bridge to ML)
 
-Before ML/DL/GenAI, learn:
+Data Science fundamentals (the **minimum required DS**) before ML/DL/GenAI.
 
 ### ✔ Pandas  
 - DataFrames  
@@ -92,6 +92,15 @@ Before ML/DL/GenAI, learn:
 - Scatterplots  
 - Histograms  
 
+### Recommended Resources
+
+| Topic | Description | Link |
+|--------|-------------|------|
+| Pandas Crash Course | Full intro to DataFrames | ▶️ [Link](https://youtu.be/vmEHCJofslg) |
+| NumPy Crash Course | Array operations, vectorization | ▶️ [Link](https://youtu.be/QUT1VHiLmmI) |
+| EDA Basics | Data cleaning & exploration | ▶️ [Link](https://youtu.be/klZq7ScVn0M) |
+| Visualization | Matplotlib + Seaborn intro | ▶️ [Link](https://youtu.be/3Xc3CA655Y4) |
+
 ---
 
 # 🧭 4. Field-Specific Fundamental Notes
@@ -107,11 +116,10 @@ Before ML/DL/GenAI, learn:
 
 ### 🦾 Robotics  
 → Needs Python + Linear Algebra  
-→ Physics & Vision are learned inside Robotics  
+→ Physics & Computer Vision learned inside Robotics track  
 
 ### 💹 Quant Finance  
-→ Needs Python + Probability + Stats  
-→ Finance math is learned inside Quant  
+→ Needs Python + Probability + Statistics  
 
 ### 🧠 AGI  
 → Needs ML + DL + GenAI basics  
@@ -122,7 +130,8 @@ Before ML/DL/GenAI, learn:
 
 Continue to the next major field:
 
-👉 **Machine Learning** → `../MachineLearning/README.md`
+### ▶️ **Go To Machine Learning**  
+`../MachineLearning/README.md`
 
 ---
 
@@ -132,4 +141,5 @@ Feel free to add more universal resources.
 ---
 
 # 📜 License  
-MIT License.
+MIT License  
+▶️ [License Link](https://opensource.org/license/mit/)
