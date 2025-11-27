@@ -184,8 +184,6 @@ Jump directly to any phase:
 - Reinforcement learning for robotics  
 - High-fidelity simulation  
 
-<details>
-<summary><strong>Advanced Courses</strong></summary>
 
 | Course | Provider | Link |
 |--------|----------|------|
@@ -194,10 +192,8 @@ Jump directly to any phase:
 | RL for Robotics | Various | Multiple |
 | OpenCV University Bootcamps | OpenCV | https://opencv.org/university/free-courses/ |
 
-</details>
 
-<details>
-<summary><strong>Specialized Topics</strong></summary>
+
 
 ### Computer Vision  
 - OpenCV University (free bootcamps)  
@@ -213,14 +209,13 @@ Jump directly to any phase:
 - ORB-SLAM3  
 - Hector SLAM  
 
-</details>
+
 
 ---
 
 # 🦾 Phase 4 — Specialization (Year 2+)
 
-<details>
-<summary><strong>Paid Professional Certifications</strong></summary>
+
 
 | Certification | Provider | Focus |
 |---------------|----------|--------|
@@ -229,10 +224,8 @@ Jump directly to any phase:
 | CIRP | ATMAE | Industrial robot programming |
 | KUKA College | KUKA | Robot programming |
 
-</details>
 
-<details>
-<summary><strong>Specialization Areas</strong></summary>
+
 
 ### Manipulation  
 - MIT 6.4210  
@@ -248,7 +241,7 @@ Jump directly to any phase:
 - TurtleBot3 + ROS2  
 - NASA Open Source Rover  
 
-</details>
+
 
 ---
 
