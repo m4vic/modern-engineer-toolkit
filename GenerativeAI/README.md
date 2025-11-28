@@ -89,5 +89,23 @@ Multi-head attention
 Encoder / decoder stacks
 Positional encoding
 Feed-forward blocks
-
 Layer normalization
+
+| Topic                  | Description                    | Link                                    |
+| ---------------------- | ------------------------------ | --------------------------------------- |
+| HF Transformers Course | Tokenizers → models → training | ▶️ [Link](https://huggingface.co/learn) |
+
+## 🧠 3. Large Language Models (LLMs)
+Core Concepts
+
+Tokenization (BPE, SentencePiece)
+Context windows
+Scaling laws
+Prompting fundamentals
+Quantization (4-bit, 8-bit)
+Efficient inference
+
+| Topic      | Description                            | Link                                               |
+| ---------- | -------------------------------------- | -------------------------------------------------- |
+| LLM Course | Training, fine-tuning, evaluation      | ▶️ [Link](https://huggingface.co/learn/llm-course) |
+| Model Hub  | Open-source LLMs (Llama, Mistral, Phi) | 🔗 [Link](https://huggingface.co/models)           |
