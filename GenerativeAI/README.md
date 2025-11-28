@@ -222,8 +222,8 @@ RAG = Search → Retrieve → Augment → Generate
    
 ## 🔗 Cross-Links
 
-Deep Learning → ../DeepLearning/README.md
-Fundamentals → ../Fundamentals/README.md
-Machine Learning → ../MachineLearning/README.md
-Agentic AI → ../AgenticAI/README.md
-✔️ End of Generative AI Module
+- Deep Learning → ../DeepLearning/README.md
+- Fundamentals → ../Fundamentals/README.md
+- Machine Learning → ../MachineLearning/README.md
+- Agentic AI → ../AgenticAI/README.md
+- ✔️ End of Generative AI Module
