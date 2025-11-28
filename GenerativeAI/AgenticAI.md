@@ -123,7 +123,7 @@ Tools an agent can use:
 - LangGraph Checkpoints
 - CrewAI Memory
 
-🔁 4. ReAct, Planning & Multi-Step Reasoning
+## 🔁 4. ReAct, Planning & Multi-Step Reasoning
 
 ### ReAct = Reason + Act
 
