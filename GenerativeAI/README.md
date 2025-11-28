@@ -75,10 +75,10 @@ flowchart TD
 
 Transformers power:
 
-LLMs
-Diffusion models
-Vision transformers
-Audio + speech models
+- LLMs
+- Diffusion models
+- Vision transformers
+- Audio + speech models
 Multimodal systems
 
 Key Concepts
