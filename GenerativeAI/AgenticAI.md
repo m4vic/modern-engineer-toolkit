@@ -58,4 +58,51 @@ flowchart TD
     F --> G[Applications<br/>Automation · Assistants · Pipelines]
 ```
 
+## 🧠 1. Agent Foundations
 
+Agentic AI = LLM + Memory + Tools + Planning + Execution Loop
+### Core ideas
+Agents decide actions, not just generate text
+They use tools: APIs, DBs, code interpreters
+They maintain state: episodic + semantic memory
+They can self-reflect, critique, and replan
+They can chain multiple LLM calls in loops
+
+### Agent Loop (general pattern)
+1. Observe
+2. Think (internal reasoning)
+3. Act (tool)
+4. Read tool output
+5. Update memory
+6. Continue or stop
+
+## 🛠️ 2. Tool & Function Calling
+Tools an agent can use:
+
+Web search
+Python interpreter
+Database queries
+External APIs
+Retrieval systems
+Browsing
+Executing code
+File system
+
+### Top frameworks for tool-use:
+OpenAI Function Calling
+OpenAI Assistants API (Tools)
+LangChain Tools
+LangGraph tool nodes
+CrewAI tools system
+
+## 🧩 3. Memory Systems
+
+Memory lets an agent remember:
+
+previous tasks
+user context
+documents
+plans
+results
+
+Memory types:
