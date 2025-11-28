@@ -79,30 +79,30 @@ They can chain multiple LLM calls in loops
 ## 🛠️ 2. Tool & Function Calling
 Tools an agent can use:
 
-Web search
-Python interpreter
-Database queries
-External APIs
-Retrieval systems
-Browsing
-Executing code
-File system
+- Web search
+- Python interpreter
+- Database queries
+- External APIs
+- Retrieval systems
+- Browsing
+- Executing code
+- File system
 
 ### Top frameworks for tool-use:
-OpenAI Function Calling
-OpenAI Assistants API (Tools)
-LangChain Tools
-LangGraph tool nodes
-CrewAI tools system
+- OpenAI Function Calling
+- OpenAI Assistants API (Tools)
+- LangChain Tools
+- LangGraph tool nodes
+- CrewAI tools system
 
 ## 🧩 3. Memory Systems
 
 Memory lets an agent remember:
 
-previous tasks
-user context
-documents
-plans
-results
+- previous tasks
+- user context
+- documents
+- plans
+- results
 
 Memory types:
