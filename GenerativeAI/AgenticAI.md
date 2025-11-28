@@ -170,7 +170,7 @@ Multiple agents collaborate like teams.
 - Enterprise workflow automation
 
 ## 🏗️ 6. Agent Frameworks (LangChain, LangGraph, CrewAI)
-LangChain
+### LangChain
 
 Great for:
 
@@ -181,3 +181,87 @@ Great for:
 
 ▶️ Tutorials:
 https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
+
+### LangGraph (most powerful)
+
+- Graph-based agent orchestration:
+- Persistent state
+- Checkpointing
+- Multi-agent workflows
+- Robust planning
+- Production-grade
+
+▶️ Tutorials:
+https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL
+
+### CrewAI
+
+- Agent “teams” with:
+- Roles
+- Goals
+- Tools
+- Memory
+
+Supports long-running autonomous pipelines.
+
+▶️ CrewAI Docs
+https://crewai.com/
+
+### OpenAI Assistants / Agents
+
+Native:
+- Tools
+- Retrieval
+- Code interpreter
+- Multi-step function calls
+- File management
+
+Great for production.
+
+## 🧰 7. Tools & Infrastructure
+| Category         | Tools                                   |
+| ---------------- | --------------------------------------- |
+| Vector DBs       | Chroma, LanceDB, Pinecone, Weaviate     |
+| Agent frameworks | LangChain, LangGraph, CrewAI, AutoGen   |
+| Execution        | FastAPI, Cloudflare Workers, AWS Lambda |
+| Monitoring       | LangSmith, Weights & Biases             |
+| Storage          | Supabase, MongoDB, Postgres             |
+| Hosting          | Vercel, Render, AWS, GCP                |
+
+## 8. Projects (Beginner → Advanced)
+### Beginner
+
+- Tool-using chatbot (search + calculator)
+- Simple RAG agent
+- Memory-based personal assistant
+
+### Intermediate
+
+- Research agent (web search + summarization)
+- Multi-tool workflow agent (PDFs, browsing, code)
+- Planning agent with ReAct + memory
+
+### Advanced
+
+- Multi-agent research team (Supervisor + Analysts)
+- Automated software engineer (code → test → fix loop)
+- Enterprise workflow automation (email → tasks → reports)
+- Robotics agent interface (planning + perception + control)
+
+## 🧭 9. Recommended Learning Path
+
+Learn Generative AI (LLMs, RAG, embeddings)
+Understand tool-calling (OpenAI / LangChain)
+Add memory (vector DB + episodic memory)
+Learn ReAct + planning
+Build your first agent loop
+Add multi-agent collaboration
+Deploy + monitor with LangGraph
+Build complex pipelines
+
+## 🔗 Cross-Links
+
+- Generative AI → ../GenerativeAI/README.md
+- Deep Learning → ../DeepLearning/README.md
+- ML → ../MachineLearning/README.md
+- Fundamentals → ../Fundamentals/README.md
