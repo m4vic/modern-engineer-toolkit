@@ -79,17 +79,17 @@ Transformers power:
 - Diffusion models
 - Vision transformers
 - Audio + speech models
-Multimodal systems
+- Multimodal systems
 
 Key Concepts
 
-Attention
-Self-attention
-Multi-head attention
-Encoder / decoder stacks
-Positional encoding
-Feed-forward blocks
-Layer normalization
+- Attention
+- Self-attention
+- Multi-head attention
+- Encoder / decoder stacks
+- Positional encoding
+- Feed-forward blocks
+- Layer normalization
 
 | Topic                  | Description                    | Link                                    |
 | ---------------------- | ------------------------------ | --------------------------------------- |
@@ -98,12 +98,12 @@ Layer normalization
 ## 🧠 3. Large Language Models (LLMs)
 Core Concepts
 
-Tokenization (BPE, SentencePiece)
-Context windows
-Scaling laws
-Prompting fundamentals
-Quantization (4-bit, 8-bit)
-Efficient inference
+- Tokenization (BPE, SentencePiece)
+- Context windows
+- Scaling laws
+- Prompting fundamentals
+- Quantization (4-bit, 8-bit)
+- Efficient inference
 
 | Topic      | Description                            | Link                                               |
 | ---------- | -------------------------------------- | -------------------------------------------------- |
@@ -114,13 +114,15 @@ Efficient inference
 
 RAG = Search → Retrieve → Augment → Generate
 
-Learn:
-Chunking strategies
-Embeddings
-Vector databases
-Query transformations
-Document reranking
-Evaluation
+### Learn:
+- Chunking strategies
+- Embeddings
+- Vector databases
+- Query transformations
+- Document reranking
+- Evaluation
+
+  
 | Topic                   | Description                          | Link                                                                            |
 | ----------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
 | LangChain RAG Tutorials | Full RAG pipelines                   | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) |
@@ -128,11 +130,11 @@ Evaluation
 
 ## 🔧 5. Fine-Tuning (LoRA / QLoRA / PEFT)
 
-Fine-tuning Types
-LoRA — low-rank adapters
-QLoRA — fine-tuning 4-bit LLMs
-PEFT — efficient tuning
-Full fine-tuning — rarely needed
+- Fine-tuning Types
+- LoRA — low-rank adapters
+- QLoRA — fine-tuning 4-bit LLMs
+- PEFT — efficient tuning
+- Full fine-tuning — rarely needed
 
 | Topic                 | Description                     | Link                                              |
 | --------------------- | ------------------------------- | ------------------------------------------------- |
@@ -142,18 +144,18 @@ Full fine-tuning — rarely needed
 
 ## 🌫️ 6. Diffusion Models (Images & Video)
 
-Diffusion models generate:
-Images (Stable Diffusion)
-Videos (SORA-style models)
-Audio
-3D scenes
+- Diffusion models generate:
+- Images (Stable Diffusion)
+- Videos (SORA-style models)
+- Audio
+- 3D scenes
 
 ### Learn:
-Forward diffusion
-Reverse denoising process
-U-Net backbones
-Classifier-free guidance
-Latent diffusion
+- Forward diffusion
+- Reverse denoising process
+- U-Net backbones
+- Classifier-free guidance
+- Latent diffusion
 
 | Resource                                | Description                                | Link                                                              |
 | --------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------- |
@@ -162,16 +164,18 @@ Latent diffusion
 | Awesome Diffusion Models                | Curated repo of papers + code              | ▶️ [Link](https://github.com/diff-usion/Awesome-Diffusion-Models) |
 
 ## 🧿 7. Multimodal Models (VLMs, Audio, Video)
-Types
+###Types
 
-VLMs: CLIP, LLaVA, BLIP-2
-Audio models: Whisper, AudioLM
-Video models: SORA-style diffusion
-Concepts
-Cross-attention
-Feature alignment
-Vision encoders (ViT)
-Projection heads
+- VLMs: CLIP, LLaVA, BLIP-2
+- Audio models: Whisper, AudioLM
+- Video models: SORA-style diffusion
+  
+###Concepts'
+
+- Cross-attention
+- Feature alignment
+- Vision encoders (ViT)
+- Projection heads
 
 ## 🧰 8. Frameworks & Tools
 | Category   | Tools                                         |
@@ -186,23 +190,22 @@ Projection heads
 ## 🧪 9. Projects (Beginner → Advanced)
 ### Beginner
 
-Build a chatbot (OpenAI/HF)
-Embeddings + vector search
-Basic RAG pipeline
+- Build a chatbot (OpenAI/HF)
+- Embeddings + vector search
+- Basic RAG pipeline
 
 ### Intermediate
-Fine-tune a model with LoRA
-
-Document QA system
-Personal AI assistant
-Text-to-image UI with Diffusers
+- Fine-tune a model with LoRA
+- Document QA system
+- Personal AI assistant
+- Text-to-image UI with Diffusers
 
 ### Advanced
 
-Multimodal chatbot (image + text)
-Video generation pipeline
-Domain-specific RAG with rerankers
-LLM-powered coding assistant
+- Multimodal chatbot (image + text)
+- Video generation pipeline
+- Domain-specific RAG with rerankers
+- LLM-powered coding assistant
 
 
 ## 🧭 10. Recommended Learning Path
