@@ -161,3 +161,66 @@ Latent diffusion
 | Generative Deep Learning (David Foster) | VAEs, GANs, flows, transformers, diffusion | Book                                                              |
 | Awesome Diffusion Models                | Curated repo of papers + code              | ▶️ [Link](https://github.com/diff-usion/Awesome-Diffusion-Models) |
 
+## 🧿 7. Multimodal Models (VLMs, Audio, Video)
+Types
+
+VLMs: CLIP, LLaVA, BLIP-2
+Audio models: Whisper, AudioLM
+Video models: SORA-style diffusion
+Concepts
+Cross-attention
+Feature alignment
+Vision encoders (ViT)
+Projection heads
+
+## 🧰 8. Frameworks & Tools
+| Category   | Tools                                         |
+| ---------- | --------------------------------------------- |
+| LLMs       | HuggingFace Transformers, OpenAI API, vLLM    |
+| RAG        | LangChain, LlamaIndex, LanceDB, Chroma        |
+| Agents     | LangGraph, CrewAI *(full guide in AgenticAI)* |
+| Serving    | FastAPI, TGI, DeepSpeed, Ollama               |
+| Diffusion  | HF Diffusers, ComfyUI, Automatic1111          |
+| Evaluation | RAGAS, lm-eval-harness                        |
+
+## 🧪 9. Projects (Beginner → Advanced)
+### Beginner
+
+Build a chatbot (OpenAI/HF)
+Embeddings + vector search
+Basic RAG pipeline
+
+### Intermediate
+Fine-tune a model with LoRA
+
+Document QA system
+Personal AI assistant
+Text-to-image UI with Diffusers
+
+### Advanced
+
+Multimodal chatbot (image + text)
+Video generation pipeline
+Domain-specific RAG with rerankers
+LLM-powered coding assistant
+
+
+## 🧭 10. Recommended Learning Path
+
+1. Learn Transformers
+2. Understand LLM architecture
+3. Master tokenization + embeddings
+4. Build RAG systems
+5. Learn fine-tuning (LoRA/QLoRA)
+6. Explore diffusion models
+7. Build multimodal applications
+8. Move to Agentic AI for autonomous systems
+
+   
+## 🔗 Cross-Links
+
+Deep Learning → ../DeepLearning/README.md
+Fundamentals → ../Fundamentals/README.md
+Machine Learning → ../MachineLearning/README.md
+Agentic AI → ../AgenticAI/README.md
+✔️ End of Generative AI Module
