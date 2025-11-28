@@ -109,3 +109,55 @@ Efficient inference
 | ---------- | -------------------------------------- | -------------------------------------------------- |
 | LLM Course | Training, fine-tuning, evaluation      | ▶️ [Link](https://huggingface.co/learn/llm-course) |
 | Model Hub  | Open-source LLMs (Llama, Mistral, Phi) | 🔗 [Link](https://huggingface.co/models)           |
+
+## 🔍4. RAG (Retrieval-Augmented Generation)
+
+RAG = Search → Retrieve → Augment → Generate
+
+Learn:
+Chunking strategies
+Embeddings
+Vector databases
+Query transformations
+Document reranking
+Evaluation
+| Topic                   | Description                          | Link                                                                            |
+| ----------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| LangChain RAG Tutorials | Full RAG pipelines                   | ▶️ [Link](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) |
+| HF RAG Course           | Embeddings → vector DBs → generation | ▶️ [Link](https://huggingface.co/learn)                                         |
+
+## 🔧 5. Fine-Tuning (LoRA / QLoRA / PEFT)
+
+Fine-tuning Types
+LoRA — low-rank adapters
+QLoRA — fine-tuning 4-bit LLMs
+PEFT — efficient tuning
+Full fine-tuning — rarely needed
+
+| Topic                 | Description                     | Link                                              |
+| --------------------- | ------------------------------- | ------------------------------------------------- |
+| Fine-Tuning with LoRA | Practical LoRA + QLoRA tutorial | ▶️ YouTube                                        |
+| HF PEFT Docs          | Official PEFT library           | 🔗 [Link](https://huggingface.co/docs/peft/index) |
+
+
+## 🌫️ 6. Diffusion Models (Images & Video)
+
+Diffusion models generate:
+Images (Stable Diffusion)
+Videos (SORA-style models)
+Audio
+3D scenes
+
+# Learn:
+Forward diffusion
+Reverse denoising process
+U-Net backbones
+Classifier-free guidance
+Latent diffusion
+
+| Resource                                | Description                                | Link                                                              |
+| --------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------- |
+| DGAI — Learn GenAI with PyTorch         | GANs → VAEs → GPT → Diffusion              | ▶️ [Link](https://github.com/markhliu/DGAI)                       |
+| Generative Deep Learning (David Foster) | VAEs, GANs, flows, transformers, diffusion | Book                                                              |
+| Awesome Diffusion Models                | Curated repo of papers + code              | ▶️ [Link](https://github.com/diff-usion/Awesome-Diffusion-Models) |
+
