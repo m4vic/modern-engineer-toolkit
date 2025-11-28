@@ -148,7 +148,7 @@ Videos (SORA-style models)
 Audio
 3D scenes
 
-# Learn:
+### Learn:
 Forward diffusion
 Reverse denoising process
 U-Net backbones
