@@ -114,91 +114,70 @@ Tools an agent can use:
 | **Episodic memory**   | Past actions & decisions        |
 | **Working memory**    | For planning & chain-of-thought |
 
-Tools:
+### Tools:
 
-Chroma
-
-LanceDB
-
-Weaviate
-
-Pinecone
-
-LangGraph Checkpoints
-
-CrewAI Memory
+- Chroma
+- LanceDB
+- Weaviate
+- Pinecone
+- LangGraph Checkpoints
+- CrewAI Memory
 
 🔁 4. ReAct, Planning & Multi-Step Reasoning
 
-ReAct = Reason + Act
+### ReAct = Reason + Act
 
-Agents generate:
+#### Agents generate:
 
-thoughts
+- thoughts
+- decisions
+- next actions
+- reflections
 
-decisions
-
-next actions
-
-reflections
-
-Planning techniques:
+### Planning techniques:
 
 ReAct
 
-Chain-of-thought
+- Chain-of-thought
+- Self-reflection
+- Task decomposition
+- Planner–executor agents
+- Tactic agents + strategies
 
-Self-reflection
+### Frameworks supporting planning:
 
-Task decomposition
+- LangGraph (state machines + workflows)
+- CrewAI (hierarchical agents)
+- AutoGen (multi-agent reasoning)
 
-Planner–executor agents
-
-Tactic agents + strategies
-
-Frameworks supporting planning:
-
-LangGraph (state machines + workflows)
-
-CrewAI (hierarchical agents)
-
-AutoGen (multi-agent reasoning)
-
-👥 5. Multi-Agent Systems
+## 👥 5. Multi-Agent Systems
 
 Multiple agents collaborate like teams.
 
-Types:
+### Types:
 
-Supervisor → Worker agents
+- Supervisor → Worker agents
+- Debate agents
+- Critic + Solver
+- Router agents
+- Evaluator agents
 
-Debate agents
+### Use cases:
 
-Critic + Solver
+- Research automation
+- Multi-step pipelines
+- Code generation & testing
+- Enterprise workflow automation
 
-Router agents
-
-Evaluator agents
-
-Use cases:
-
-Research automation
-
-Multi-step pipelines
-
-Code generation & testing
-
-Enterprise workflow automation
-
-🏗️ 6. Agent Frameworks (LangChain, LangGraph, CrewAI)
+## 🏗️ 6. Agent Frameworks (LangChain, LangGraph, CrewAI)
 LangChain
 
 Great for:
 
 - Tools
-RAG
-Chains
-Simple agents
+- RAG
+- Chains
+- Simple agents
 
 ▶️ Tutorials:
 https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
