@@ -97,7 +97,7 @@ Tools an agent can use:
 
 ## 🧩 3. Memory Systems
 
-Memory lets an agent remember:
+### Memory lets an agent remember:
 
 - previous tasks
 - user context
@@ -105,4 +105,11 @@ Memory lets an agent remember:
 - plans
 - results
 
-Memory types:
+### Memory types:
+| Type                  | Purpose                         |
+| --------------------- | ------------------------------- |
+| **Short-term memory** | Chat history, local context     |
+| **Long-term memory**  | Vector DB, embeddings           |
+| **Semantic memory**   | Facts & knowledge               |
+| **Episodic memory**   | Past actions & decisions        |
+| **Working memory**    | For planning & chain-of-thought |
