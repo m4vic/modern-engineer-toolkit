@@ -1,8 +1,8 @@
-# 🌟 THE MODERN ENGINEER TOOLKIT – Curated Resource Hub
+#  THE MODERN ENGINEER TOOLKIT – Curated Resource Hub
 
 ### • [Twitter](https://x.com/) • [GitHub](https://github.com/) • [HuggingFace](https://huggingface.co)
 
-# 🧠 About This Toolkit
+# About This Toolkit
 Modern engineering is built across several interconnected fields — Machine Learning, Deep Learning, GenAI, Robotics, Quant Finance, and AGI.
 This toolkit gives you:
 - A complete learning map  
@@ -13,7 +13,7 @@ This toolkit gives you:
 
 ---
 
-# 🌐 Overview of Fields
+#  Overview of Fields
 ### 📘 Machine Learning  
 Foundations of algorithms, predictive modeling, and data workflows.
 
@@ -35,7 +35,7 @@ Multimodal systems, reasoning, agents, RL, world models, memory.
 ---
 
 # ⚡ Quick Links to All Sections
-- 🧱 [Fundamentals](./Fundamentals/README.md)  
+- 🧱 [Fundamentals](./Fundamentals/README.md)
 - 📘 [Machine Learning](./MachineLearning/README.md)  
 - 🔥 [Deep Learning](./DeepLearning/README.md)  
 - 🤖 [Generative AI & LLMs](./GenerativeAI/README.md)  
@@ -44,6 +44,7 @@ Multimodal systems, reasoning, agents, RL, world models, memory.
 - 🧠 [AGI](./AGI/README.md)  
 - 🧰 [Tools & MLOps](./Tools/README.md)  
 - 🧪 [Projects](./Projects/README.md)
+  
 
 ---
 
